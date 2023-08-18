@@ -29,4 +29,4 @@ To return the `id_token` field in the accounts.login response, follow these step
    >  - groups
    >  - id_token
 
-[(Back to Table of Contents)](README.md)
+[(Back to Table of Contents)](../README.md)

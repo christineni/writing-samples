@@ -30,4 +30,4 @@ For clarity, take the following scenarios:
   4. Execute the dataflow job from this child site.
      > Result: automated account delete confirmation emails are not sent.
 
-[(Back to Table of Contents)](README.md)
+[(Back to Table of Contents)](../README.md)

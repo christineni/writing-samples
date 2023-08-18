@@ -19,4 +19,4 @@ Ensure the following configurations have been implemented correctly:
 
 - Ensure all the URLs that participate in the redirect social login flow are added to the Trusted Site URLs list.
 
-[(Back to Table of Contents)](README.md)
+[(Back to Table of Contents)](../README.md)

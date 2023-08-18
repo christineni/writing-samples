@@ -24,4 +24,4 @@ By default, account linking for federated identities is disabled in the API key 
 ### Resolution
 Enable account linking for federated identities by calling the [accounts.setPolicies](https://help.sap.com/docs/SAP_CUSTOMER_DATA_CLOUD/8b8d6fffe113457094a17701f63e3d6a/4139d66d70b21014bbc5a10ce4041860.html) REST API and pass the parameter `{"federation"={"allowMultipleIdentities":true}}`.
 
-[(Back to Table of Contents)](README.md)
+[(Back to Table of Contents)](../README.md)

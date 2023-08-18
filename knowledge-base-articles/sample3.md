@@ -26,4 +26,4 @@ The Delegated Admin Portal can be launched by calling the [accounts.b2b.openDele
 > </script>
 > ```
 
-[(Back to Table of Contents)](README.md)
+[(Back to Table of Contents)](../README.md)
