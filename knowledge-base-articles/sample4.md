@@ -1,4 +1,5 @@
 # Sample 4
+
 ## Google Sign-In returns 400 "DEVELOPER_ERROR" on Android mobile application.
 
 ### Symptom
